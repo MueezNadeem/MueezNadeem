@@ -33,7 +33,7 @@
         <li>Participant in App Dev competition in Softec23 and Softec22</li>
         <li>Teaching Assistant of 'Theory of Automata' for Fall 2023</li>
         <li>Teaching Assistant of 'Theory of Automata' for Spring 2024</li>
-        <li>Teaching Assistant of 'Software Engineering' for Fall 2024</li>
+        <li>Teaching Assistant of 'Software Engineering' for Spring 2024</li>
     </ul>
 
 ###
